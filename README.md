@@ -1,3 +1,5 @@
 # Exercicio_Py_EntradadeDados
-## Exercício simples sobre entrada de dados Para o curso Técnico Análise e Desenvolvimento de Sistemas
-Construa o primeiro código em Python contendo a exibição de mensagem na tela com seu nome, curso e o polo.
+## Exercício simples utilizando números inteiros e pronpt Para o curso Técnico Análise e Desenvolvimento de Sistemas
+Construa um programa em Python que realize o cadastramento das entradas de 
+dados, com os tipos de dados nome, idade e peso, e a na saída de dados mostre o seu nome, 
+idade e peso.  
