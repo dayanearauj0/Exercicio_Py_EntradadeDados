@@ -1,2 +1,3 @@
 # Exercicio_Py_EntradadeDados
-Exercício simples sobre entrada de dados Para o curso Técnico Análise e Desenvolvimento de Sistemas
+## Exercício simples sobre entrada de dados Para o curso Técnico Análise e Desenvolvimento de Sistemas
+Construa o primeiro código em Python contendo a exibição de mensagem na tela com seu nome, curso e o polo.
